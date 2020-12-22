@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my personal site
-- 🌱 I’m currently learning GatsbyJS
+- 🌱 I’m currently learning GatsbyJS & Svelte
 - 💬 Ask me anything
 - 📫 How to reach me: @dt_lifelink
 - 😄 Pronouns: he/him
